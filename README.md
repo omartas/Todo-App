@@ -1,16 +1,2 @@
 # mobil_odev_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![275907745_543574586948041_8313675149083647175_n](https://user-images.githubusercontent.com/56955207/169698152-24c0b335-a776-474b-ba10-0fa09f688af8.jpg)
